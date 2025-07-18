@@ -25,3 +25,8 @@ This is a basic RESTful API built using Node.js and Express.js to manage a simpl
 git clone https://github.com/your-username/todo-api-express.git
 cd todo-api-express
 ```
+## 2. Install dependencies
+npm install
+
+## 3. Start the server
+npm run dev
